@@ -1,0 +1,40 @@
+*{
+	margin:20px;
+	padding:0;
+	width: 700px;
+	margin-left: calc(50% - 350px);
+	}
+	
+h1{
+	font: 14pt/1em Helvetica, Arial;
+	font-weight: bold;
+	}
+
+h2{
+	font: 12pt/1em Helvetica, Arial;
+	font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 0px;
+}
+
+p, li{
+	font: 9pt/1.5em Georgia, Times, Sans-serif;
+	color: #444;
+	}
+	
+ul{
+	margin: 20px;
+}
+
+html{
+	background: #ddd;
+	}
+	
+a{
+	margin-right: 0;
+}
+	
+	
+	
+	
+	
