@@ -1,1 +1,0 @@
-# HPPrivacyPolicy.github.io
